@@ -15,3 +15,9 @@
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
  </div>
+
+ <div align="center"> 
+  <a href="https://linkedin.com/in/nidharshana-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
