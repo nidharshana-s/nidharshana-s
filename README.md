@@ -12,8 +12,6 @@
  
  🔭 Currently a Student at **PSGCT**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
  </div>
 
  <div align="center"> 
@@ -29,7 +27,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=react,androidstudio,html,css,vscode,github,tailwind,postman" />
     <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,cpp,java,mysql,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cpp,java,mysql," /><br>
 </div>
 <br>
 <br>
