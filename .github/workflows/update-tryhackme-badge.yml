@@ -1,0 +1,27 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Configure Git Identity
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+
+    - name: Fetch TryHackMe Badge
+      uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
+      with:
+        image_path: './assets/tryhackme-badge.png'
+        username: ${{ secrets.THM_USERNAME }}
+        user_id: ${{ secrets.THM_USER_ID }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
