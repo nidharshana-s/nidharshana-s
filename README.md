@@ -34,6 +34,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2549746" style='border:none;'></iframe>
+    <br /> <br />
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nidharshana-s&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br /><br/>
     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nidharshana-s&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
