@@ -47,3 +47,4 @@
 
 <br/>
 <hr/>
+![tryhackme stats](https://raw.githubusercontent.com/nidharshana0402/nidharshana0402/main/assets/thm_propic.png)
