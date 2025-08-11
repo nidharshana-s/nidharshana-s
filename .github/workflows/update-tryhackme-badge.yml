@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: p4p1/Try Hack Me Update Badge@main
         with:
           username: "nidharshana0402"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
