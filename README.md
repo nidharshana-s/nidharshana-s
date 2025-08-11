@@ -45,5 +45,5 @@
 
 <br/>
 <hr/>
-![tryhackme stats](https://raw.githubusercontent.com/nidharshana-s/nidharshana-s/main/assets/tryhackme-badge.png?v=1)
+![tryhackme stats](https://raw.githubusercontent.com/nidharshana-s/nidharshana-s/main/assets/tryhackme-badge.png)
 
