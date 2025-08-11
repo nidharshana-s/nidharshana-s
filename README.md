@@ -33,6 +33,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    <img src="assets/tryhackme-badge.png" alt="TryHackMe Badge" width="400"/>
     <br /> <br />
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nidharshana-s&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br /><br/>
@@ -45,5 +46,5 @@
 
 <br/>
 <hr/>
-![tryhackme stats](https://raw.githubusercontent.com/nidharshana-s/nidharshana-s/main/assets/tryhackme-badge.png)
+
 
